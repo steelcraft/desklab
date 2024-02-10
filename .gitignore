@@ -32,3 +32,4 @@
 *.app
 *.bak
 **/Debug/*
+/hardware/__Previews
